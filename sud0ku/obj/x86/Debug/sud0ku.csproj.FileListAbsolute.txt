@@ -1,0 +1,5 @@
+c:\users\stallion\documents\visual studio 2010\Projects\sud0ku\sud0ku\bin\Debug\sud0ku.exe
+c:\users\stallion\documents\visual studio 2010\Projects\sud0ku\sud0ku\bin\Debug\sud0ku.pdb
+c:\users\stallion\documents\visual studio 2010\Projects\sud0ku\sud0ku\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\stallion\documents\visual studio 2010\Projects\sud0ku\sud0ku\obj\x86\Debug\sud0ku.exe
+c:\users\stallion\documents\visual studio 2010\Projects\sud0ku\sud0ku\obj\x86\Debug\sud0ku.pdb
